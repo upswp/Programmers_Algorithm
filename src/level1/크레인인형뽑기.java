@@ -1,7 +1,9 @@
 package level1;
 /**
  * programmers 
- * 카카오 
+ * 카카오 크레인 인형뽑기
+ * @author Park Sangwoo
+ * @since 2020-09-10
  */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
